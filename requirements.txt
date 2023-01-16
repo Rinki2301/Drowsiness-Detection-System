@@ -3,4 +3,4 @@ imutils==0.5.4
 numpy==1.24.1
 opencv-python==4.7.0.68
 
-for dlib installation - https://www.google.com/searchq=how+to+install+dlib+in+venv+python+vscode&rlz=1C1CHBF_enIN1007IN1008&oq=how+to+install+dlib+in+venv+python+vscode&aqs=chrome..69i57j33i160l5.18905j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=_Wm3FY_2LBOud4-EP65av8Ak_31
+for dlib installation - https://www.youtube.com/watch?v=br9KGtWQErc
